@@ -1,0 +1,16 @@
+C:\Users\Hello\source\repos\ПР8\ПР8\bin\Debug\ПР8.exe.config
+C:\Users\Hello\source\repos\ПР8\ПР8\bin\Debug\ПР8.exe
+C:\Users\Hello\source\repos\ПР8\ПР8\bin\Debug\ПР8.pdb
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.csproj.AssemblyReference.cache
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.Form1.resources
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.Properties.Resources.resources
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.csproj.GenerateResource.cache
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.csproj.CoreCompileInputs.cache
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.exe
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.pdb
+C:\Users\студент\Desktop\Практические\ПР 8\ПР8\obj\Debug\ПР8.csprojAssemblyReference.cache
+C:\Users\студент\Desktop\Практические\ПР 8\ПР8\obj\Debug\ПР8.Form1.resources
+C:\Users\студент\Desktop\Практические\ПР 8\ПР8\obj\Debug\ПР8.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\Практические\ПР 8\ПР8\obj\Debug\ПР8.exe
+C:\Users\студент\Desktop\Практические\ПР 8\ПР8\obj\Debug\ПР8.pdb
