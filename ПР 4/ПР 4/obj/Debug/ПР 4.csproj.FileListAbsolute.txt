@@ -1,0 +1,11 @@
+C:\Users\79065\Desktop\Пр горелова\ПР 4\ПР 4\bin\Debug\ПР 4.exe.config
+C:\Users\79065\Desktop\Пр горелова\ПР 4\ПР 4\bin\Debug\ПР 4.exe
+C:\Users\79065\Desktop\Пр горелова\ПР 4\ПР 4\bin\Debug\ПР 4.pdb
+C:\Users\79065\Desktop\Пр горелова\ПР 4\ПР 4\obj\Debug\ПР 4.csproj.AssemblyReference.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 4\ПР 4\obj\Debug\ПР 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 4\ПР 4\obj\Debug\ПР_4.Form1.resources
+C:\Users\79065\Desktop\Пр горелова\ПР 4\ПР 4\obj\Debug\ПР_4.Properties.Resources.resources
+C:\Users\79065\Desktop\Пр горелова\ПР 4\ПР 4\obj\Debug\ПР 4.csproj.GenerateResource.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 4\ПР 4\obj\Debug\ПР 4.csproj.CoreCompileInputs.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 4\ПР 4\obj\Debug\ПР 4.exe
+C:\Users\79065\Desktop\Пр горелова\ПР 4\ПР 4\obj\Debug\ПР 4.pdb
