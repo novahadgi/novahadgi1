@@ -1,0 +1,32 @@
+C:\Users\79065\Desktop\Пр горелова\ПР 11\ПР 11\bin\Debug\ПР 11.exe.config
+C:\Users\79065\Desktop\Пр горелова\ПР 11\ПР 11\bin\Debug\ПР 11.exe
+C:\Users\79065\Desktop\Пр горелова\ПР 11\ПР 11\bin\Debug\ПР 11.pdb
+C:\Users\79065\Desktop\Пр горелова\ПР 11\ПР 11\obj\Debug\ПР 11.csproj.AssemblyReference.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 11\ПР 11\obj\Debug\ПР 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 11\ПР 11\obj\Debug\ПР_11.Form1.resources
+C:\Users\79065\Desktop\Пр горелова\ПР 11\ПР 11\obj\Debug\ПР_11.Properties.Resources.resources
+C:\Users\79065\Desktop\Пр горелова\ПР 11\ПР 11\obj\Debug\ПР 11.csproj.GenerateResource.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 11\ПР 11\obj\Debug\ПР 11.csproj.CoreCompileInputs.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 11\ПР 11\obj\Debug\ПР 11.exe
+C:\Users\79065\Desktop\Пр горелова\ПР 11\ПР 11\obj\Debug\ПР 11.pdb
+C:\Users\Hello\Desktop\Пр горелова (1)\ПР 11\ПР 11\bin\Debug\ПР 11.exe.config
+C:\Users\Hello\Desktop\Пр горелова (1)\ПР 11\ПР 11\bin\Debug\ПР 11.exe
+C:\Users\Hello\Desktop\Пр горелова (1)\ПР 11\ПР 11\bin\Debug\ПР 11.pdb
+C:\Users\Hello\Desktop\Пр горелова (1)\ПР 11\ПР 11\obj\Debug\ПР 11.csproj.AssemblyReference.cache
+C:\Users\Hello\Desktop\Пр горелова (1)\ПР 11\ПР 11\obj\Debug\ПР 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hello\Desktop\Пр горелова (1)\ПР 11\ПР 11\obj\Debug\ПР_11.Form1.resources
+C:\Users\Hello\Desktop\Пр горелова (1)\ПР 11\ПР 11\obj\Debug\ПР_11.Properties.Resources.resources
+C:\Users\Hello\Desktop\Пр горелова (1)\ПР 11\ПР 11\obj\Debug\ПР 11.csproj.GenerateResource.cache
+C:\Users\Hello\Desktop\Пр горелова (1)\ПР 11\ПР 11\obj\Debug\ПР 11.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Desktop\Пр горелова (1)\ПР 11\ПР 11\obj\Debug\ПР 11.exe
+C:\Users\Hello\Desktop\Пр горелова (1)\ПР 11\ПР 11\obj\Debug\ПР 11.pdb
+C:\Users\студент\Desktop\Практические\ПР 11\ПР 11\bin\Debug\ПР 11.exe.config
+C:\Users\студент\Desktop\Практические\ПР 11\ПР 11\bin\Debug\ПР 11.exe
+C:\Users\студент\Desktop\Практические\ПР 11\ПР 11\bin\Debug\ПР 11.pdb
+C:\Users\студент\Desktop\Практические\ПР 11\ПР 11\obj\Debug\ПР 11.csprojAssemblyReference.cache
+C:\Users\студент\Desktop\Практические\ПР 11\ПР 11\obj\Debug\ПР_11.Form1.resources
+C:\Users\студент\Desktop\Практические\ПР 11\ПР 11\obj\Debug\ПР_11.Properties.Resources.resources
+C:\Users\студент\Desktop\Практические\ПР 11\ПР 11\obj\Debug\ПР 11.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\Практические\ПР 11\ПР 11\obj\Debug\ПР 11.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\Практические\ПР 11\ПР 11\obj\Debug\ПР 11.exe
+C:\Users\студент\Desktop\Практические\ПР 11\ПР 11\obj\Debug\ПР 11.pdb
